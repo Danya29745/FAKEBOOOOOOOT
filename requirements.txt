@@ -1,0 +1,4 @@
+pydantic
+aiogram
+pytz
+python-dotenv

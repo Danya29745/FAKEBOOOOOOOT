@@ -1,0 +1,13 @@
+# Config с секретами — НЕ загружать на GitHub!
+/config.ini
+
+# Базы данных
+/users.db
+/messages.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
